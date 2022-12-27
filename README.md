@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaiser-iDusk
-- 👀 I’m interested in mathematics statistics and allied fielda.
+- 👀 I’m interested in mathematics statistics and allied fields.
 - 🌱 I’m currently learning scientific computing .
 - 💞️ I’m looking to collaborate on encryption decryption algorithms.
 - 📫 You may contact me at palshirsendu03@gmail.com
